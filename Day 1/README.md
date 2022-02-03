@@ -1,1 +1,3 @@
 # Welcome to Day 1
+## here we have no difficult job to do since I same basic in coding such as variable data type function and ...
+### I can continue without any problem
