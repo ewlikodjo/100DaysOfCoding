@@ -10,3 +10,6 @@ months_remaining = years_remaining * 12
 message = f"You have {days_remaining} days, {weeks_remaining} weeks, {months_remaining} left"
 
 print(message)
+
+a = int("5") / int(2.7)
+print(a)
