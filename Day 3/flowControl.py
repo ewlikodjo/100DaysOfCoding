@@ -6,3 +6,11 @@ if height > 120:
 
 else:
     print("Sorry, you have to grow taller befor you can ride.")
+
+    age = int(input("enter your age?"))
+
+    if age >= 18:
+        print("you are eligible!")
+
+    else:
+        print("you are not eligible!")
