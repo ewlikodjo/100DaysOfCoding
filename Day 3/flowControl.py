@@ -9,8 +9,11 @@ else:
 
     age = int(input("enter your age?"))
 
-    if age >= 18:
-        print("you are eligible!")
+    if age < 12:
+        print("pay $5!")
+
+    elif age <= 18:
+        print("pay $7")
 
     else:
-        print("you are not eligible!")
+        print("pay $12")
