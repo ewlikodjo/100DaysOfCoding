@@ -1,4 +1,4 @@
-year = input("enter the year you want to check: ")
+year = int(input("enter the year you want to check: "))
 
 if year % 4 == 0:
     if year % 100 == 0:
