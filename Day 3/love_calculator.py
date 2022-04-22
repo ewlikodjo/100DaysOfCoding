@@ -15,7 +15,7 @@ true = t + r + u + e
 l = lower_case_string.count("l")
 o = lower_case_string.count("o")
 v = lower_case_string.count("v")
-e = lower_case_string.count("e")
+e: int = lower_case_string.count("e")
 
 love = l + o + v + e
 
